@@ -10,15 +10,15 @@ To migrate the database go to tools ==> NuGet Package Manager ==> Package Manage
 
 run the following
 
-### `remove-migration`
+## `remove-migration`
 
 to remove previous migration first
 
-### `add-migration initial`
+## `add-migration initial`
 
 to make a new migration
 
-### `update-database`
+## `update-database`
 
 to update your database based on the migration
 
